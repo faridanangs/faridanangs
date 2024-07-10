@@ -19,27 +19,44 @@ I am a Full Stack Developer and Blockchain Developer <img src="https://media.gip
 <h2>Langauge And Tools</h2>
 <div align="center">
   <p align="left">
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
-  </a>
-  <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://layerzero.network" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/90789833?s=200&v=4" alt="Layer0" width="40" height="40"/>
-  </a>
-  <a href="https://zksync.io" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" alt="zkSync" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="40" height="40"/>
-  </a>
-</p>
-
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+    </a>
+    <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://layerzero.network" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/90789833?s=200&v=4" alt="Layer0" width="40" height="40"/>
+    </a>
+    <a href="https://zksync.io" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" alt="zkSync" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+    </a>
+    <a href="https://gofiber.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fiber/fiber-original.svg" alt="Fiber" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+    </a>
+    <a href="https://wagmi.io/" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/87366194?s=200&v=4" alt="WagmiJS" width="40" height="40"/>
+    </a>
+    <a href="https://ethereum.org/en/developers/docs/" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" alt="EtherJS" width="40" height="40"/>
+    </a>
+    <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/57066606?s=200&v=4" alt="Hardhat" width="40" height="40"/>
+    </a>
+  </p>
 </div>
