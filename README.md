@@ -4,11 +4,15 @@
   <h3 align="center">A Passionate Wibu</h3>
 </div>
 
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridanangs&label=Profile%20views&color=ba0bea&style=flat" alt="anangs" /></p>
 
 - 🔭 I’m currently working as a **Freelancer**
 - 🔗 You can see my portfolio at **https://frdanngspolio.vercel.app**
 - 📫 My Youtube channel is **https://youtube.com/@emberchains**
+
+<br/>
+<br/>
 
 <p align="left">
 </p>
