@@ -16,7 +16,7 @@ I am a Full Stack Developer and Blockchain Developer <img src="https://media.gip
 
 ---
 
-<h2>Langauge And Tools</h2>
+<h1>Languages and Tools:</h1>
 <div align="center">
   <p align="left">
     <a href="https://golang.org" target="_blank" rel="noreferrer">
@@ -39,6 +39,15 @@ I am a Full Stack Developer and Blockchain Developer <img src="https://media.gip
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+    </a>
+    <a href="https://redis.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
     </a>
   </p>
 </div>
