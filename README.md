@@ -1,19 +1,17 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-</div>
+<img  align="center" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+<h1 align="center">hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Anangs</h1>
+<h3 align="center">A passionate nerd</h3>
 
-<h1 align="center">
-  hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Anangs
-</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qpeckin&label=Profile%20views&color=ba0bea&style=flat" alt="qpeckin" /> </p>
 
-<b>A passionate intropert</b>
+- 🔭 I’m currently working on a **Snapchat Project**
 
----
+- 🔗 You can see my links at **https://fakecrime.bio/qpeckin**
 
-### :man_technologist: About Me :
-I am a Full Stack Developer and Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+- 📫 My Discord server is **https://discord.gg/qpeckin**
 
----
+<p align="left">
+</p>
 
 <h1>Languages and Tools:</h1>
 <div align="center">
