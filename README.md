@@ -37,26 +37,8 @@ I am a Full Stack Developer and Blockchain Developer <img src="https://media.gip
     <a href="https://zksync.io" target="_blank" rel="noreferrer">
       <img src="https://avatars.githubusercontent.com/u/42489169?s=200&v=4" alt="zkSync" width="40" height="40"/>
     </a>
-    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="40" height="40"/>
-    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-    </a>
-    <a href="https://gofiber.io/" target="_blank" rel="noreferrer">
-      <img src="https://avatars.githubusercontent.com/u/59947262?s=48&v=4" alt="Fiber" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
-    </a>
-    <a href="https://wagmi.sh" target="_blank" rel="noreferrer">
-      <img src="https://avatars.githubusercontent.com/u/109633172?s=200&v=4" alt="WagmiJS" width="40" height="40"/>
-    </a>
-    <a href="https://docs.ethers.org/v6/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/faridanangs/my-portfolio/blob/main/public/skils/web3/ethers.svg" alt="EtherJS" width="40" height="40"/>
-    </a>
-    <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/faridanangs/my-portfolio/blob/main/public/skils/web3/helmet.webp" alt="Hardhat" width="40" height="40"/>
     </a>
   </p>
 </div>
