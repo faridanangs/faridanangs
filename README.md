@@ -1,14 +1,14 @@
-<img  align="center" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-<h1 align="center">hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Anangs</h1>
-<h3 align="center">A passionate nerd</h3>
+<div align="center" >
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+  <h1 align="center">hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Anangs</h1>
+  <h3 align="center">A passionate nerd</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qpeckin&label=Profile%20views&color=ba0bea&style=flat" alt="qpeckin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faridanangs&label=Profile%20views&color=ba0bea&style=flat" alt="anangs" /></p>
 
-- 🔭 I’m currently working on a **Snapchat Project**
-
-- 🔗 You can see my links at **https://fakecrime.bio/qpeckin**
-
-- 📫 My Discord server is **https://discord.gg/qpeckin**
+- 🔭 I’m currently working as a **Freelancer**
+- 🔗 You can see my portfolio at **https://frdanngspolio.vercel.app**
+- 📫 My Discord server is **https://discord.gg/GyGFRzTU**
 
 <p align="left">
 </p>
