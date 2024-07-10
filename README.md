@@ -32,7 +32,7 @@ I am a Full Stack Developer and Blockchain Developer <img src="https://media.gip
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://layerzero.network" target="_blank" rel="noreferrer">
-    <img src="https://github.com/faridanangs/faridanangs/blob/main/LayerZero%20Blockchain.png" alt="Layer0" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/90789833?s=200&v=4" alt="Layer0" width="40" height="40"/>
   </a>
   <a href="https://zksync.io" target="_blank" rel="noreferrer">
     <img src="https://zksync.io/assets/images/zksync-logo.png" alt="zkSync" width="40" height="40"/>
