@@ -14,11 +14,6 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridanangs&theme=tokyonight)
-
-<br/>
-<br/>
-
 <p align="left">
 </p>
 
